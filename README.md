@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://spider3.odoo.com/web/content/487?unique=dc0ddebf19976bb4de2524af8a2161f7198c7544"  />
+  <img height="200" src="https://media.giphy.com/media/c0NwRD0Vi5Cta/giphy.gif?cid=790b76118iagnxjgfkin4chh7tb2wp9kwmmqjpl3hcfkf9me&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###

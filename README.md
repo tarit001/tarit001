@@ -1,4 +1,14 @@
-<div align="left">
+<## 🌟 About Me
+
+- 🔭 Currently working on: as a student
+- 🌱 Always learning: about new technical thinks.
+- 🤝 Open to collaborations on: new project
+- 💬 Ask me about: i love cyber security.
+- ⚡ Fun fact: in my free time i love to find free and opensourece alternative software.
+
+  
+  
+  div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />

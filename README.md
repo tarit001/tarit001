@@ -1,5 +1,5 @@
 ### 🌟 ------:About Me:------ 🌟
-### 🌟 ------:About Me:------ 🌟
+
 
 - 🔭 Currently working on: as a student
 - 🌱 Always learning: about new technical thinks.

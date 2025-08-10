@@ -5,7 +5,7 @@
 - 🌱 Always learning: about new technical thinks.
 - 🤝 Open to collaborations on: new project
 - 💬 Ask me about: i love cyber security.
-- ⚡ Fun fact: in my free time i love to find free and opensourece alternative software.
+- ⚡ Fun fact: in my free time i love to find free and opensourece alternative softwares.
 
   
   

@@ -4,7 +4,7 @@
 - 🔭 Currently working on: as a student
 - 🌱 Always learning: about new technical thinks.
 - 🤝 Open to collaborations on: new project
-- 💬 Ask me about: i love cyber security.
+- 💬 Ask me about: I love cyber security.
 - ⚡ Fun fact: in my free time i love to find free and opensourece alternative softwares.
 
   

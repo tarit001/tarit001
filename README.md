@@ -1,7 +1,7 @@
 ### 🌟 ------:About Me:------ 🌟
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MrTarit.png" alt="Your Image Badge" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978" alt="Your Image Badge" />
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2079978" style='border:none;'></iframe>
 
 
